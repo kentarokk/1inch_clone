@@ -1,5 +1,5 @@
-import Footer from "@/components/Footer";
-import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footers/MainFooter";
+import Navbar from "@/components/Navbar/MainNavbar";
 import Section1 from "@/containers/Section1";
 import Section2 from "@/containers/Section2";
 import Section3 from "@/containers/Section3";
